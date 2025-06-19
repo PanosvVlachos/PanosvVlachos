@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on controlling jet engine systems
+- 🔭 I’m currently working on jet engine systems
 - 🌱 I’m currently learning financial and data structures
 - 👯 I’m looking to collaborate on industrial math challenges
 - 📈 I’m trying to master my coding skills in Python, and other programming languages
